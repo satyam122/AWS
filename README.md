@@ -14,6 +14,7 @@
 - An AMI contains information about how you want your instance to be configured, including the operating system and possible applications to be installed on that instance.
 - You can launch one or many instances from a single AMI, which would create multiple instances that all share the same configuration.
 
-- Roles are what allow one service in AWS to communicate with another service.
-##tags
+[] Roles are what allow one service in AWS to communicate with another service.
+
+## tags
 Tags are a feature that allow you to categorize your EC2 instances
