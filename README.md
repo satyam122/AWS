@@ -6,3 +6,5 @@ Amazon Elastic Compute Cloud, or what we will call EC2 from here on out, is a co
 
 
 To select the operating system, you choose an Amazon Machine Image, or what we call an AMI. An AMI contains information about how you want your instance to be configured, including the operating system and possible applications to be installed on that instance. You can launch one or many instances from a single AMI, which would create multiple instances that all share the same configuration.
+
+Roles are what allow one service in AWS to communicate with another service.
